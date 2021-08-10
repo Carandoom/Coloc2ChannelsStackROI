@@ -6,3 +6,5 @@ The user can select a stack of separated images for 2 channels and define an are
 A threshold for each channel is then chosen by the user to apply on every opened images.
 The script will calculate Manders coefficients using the threshold selected, the Pearson coefficient and the percentage of each channel in the other one.
 The user need to save the generated data manually.
+
+Note: Time points can be used instead of z-stack images.
